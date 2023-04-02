@@ -1,0 +1,43 @@
+2023-04-02 12:05:03.644 [info] Log level: Info
+2023-04-02 12:05:03.644 [info] Validating found git in: "git"
+2023-04-02 12:05:03.644 [info] Using git "2.34.1" from "git"
+2023-04-02 12:05:03.644 [info] > git rev-parse --show-toplevel [153ms]
+2023-04-02 12:05:03.644 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 12:05:03.644 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 12:05:03.644 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 12:05:03.674 [info] > git rev-parse --show-toplevel [30ms]
+2023-04-02 12:05:03.674 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 12:05:03.686 [info] > git rev-parse --show-toplevel [9ms]
+2023-04-02 12:05:03.687 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 12:05:03.691 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 12:05:03.692 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 12:05:04.828 [info] > git rev-parse --show-toplevel [123ms]
+2023-04-02 12:05:04.828 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 12:55:43.476 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-02 12:55:43.481 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-04-02 12:55:43.489 [info] Open repository: /home/david
+2023-04-02 12:55:43.500 [info] No remotes found in the git config file.
+2023-04-02 12:55:43.507 [info] > git config --get commit.template [12ms]
+2023-04-02 12:55:43.508 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-04-02 12:55:43.616 [info] > git status -z -uall [104ms]
+2023-04-02 12:55:43.710 [info] > git config --get commit.template [1ms]
+2023-04-02 12:55:43.715 [info] No remotes found in the git config file.
+2023-04-02 12:55:43.716 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-04-02 12:55:44.174 [info] > git status -z -uall [450ms]
+2023-04-02 12:56:43.471 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-02 12:57:42.984 [info] > git show --textconv :web.html [6ms]
+2023-04-02 12:57:42.985 [info] > git ls-files --stage -- /home/david/web.html [1ms]
+2023-04-02 12:57:42.990 [info] > git cat-file -s 11517970e530227c0fb910ef5b967acae2cd7def [2ms]
+2023-04-02 13:00:43.480 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-02 13:06:08.775 [info] > git config --get commit.template [2ms]
+2023-04-02 13:06:08.783 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-04-02 13:06:08.815 [info] > git ls-files --stage -- /home/david/web.html [3ms]
+2023-04-02 13:06:08.834 [info] > git cat-file -s 11517970e530227c0fb910ef5b967acae2cd7def [12ms]
+2023-04-02 13:06:08.840 [info] > git status -z -uall [50ms]
+2023-04-02 13:06:08.927 [info] > git show --textconv :web.html [1ms]
+2023-04-02 13:06:13.929 [info] > git config --get commit.template [1ms]
+2023-04-02 13:06:13.935 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-04-02 13:06:13.968 [info] > git status -z -uall [20ms]
+2023-04-02 13:06:19.044 [info] > git config --get commit.template [0ms]
+2023-04-02 13:06:19.052 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-04-02 13:06:19.078 [info] > git status -z -uall [19ms]

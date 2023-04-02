@@ -1,0 +1,1 @@
+2023-04-01 23:11:51.514 [error] node #17: https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ritwickdey/extensions/LiveServer/5.7.9/stats?statType=uninstall - error POST connect ETIMEDOUT 150.171.21.7:443

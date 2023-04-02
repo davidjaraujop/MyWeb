@@ -1,0 +1,68 @@
+2023-04-01 22:58:07.060 [info] 
+
+
+
+
+2023-04-01 22:58:07.078 [info] Extension host agent started.
+2023-04-01 22:58:07.356 [info] [127.0.0.1][7df07a11][ManagementConnection] New connection established.
+2023-04-01 22:58:07.840 [info] [127.0.0.1][9a36672f][ExtensionHostConnection] New connection established.
+2023-04-01 22:58:07.855 [info] [127.0.0.1][9a36672f][ExtensionHostConnection] <403> Launched Extension Host Process.
+2023-04-01 23:05:13.074 [info] Getting Manifest... ritwickdey.liveserver
+2023-04-01 23:05:13.199 [info] Installing extension: ritwickdey.liveserver
+2023-04-01 23:05:16.117 [info] Extension signature is verified: ritwickdey.liveserver
+2023-04-01 23:05:18.979 [info] Extracted extension to /home/david/.vscode-server/extensions/.f38dc1e8-e699-4b60-9fd8-babf48633b0f: ritwickdey.liveserver
+2023-04-01 23:05:19.005 [info] Renamed to /home/david/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-04-01 23:05:19.007 [info] Extracting extension completed. ritwickdey.liveserver
+2023-04-01 23:05:19.015 [info] Extension installed successfully: ritwickdey.liveserver
+2023-04-01 23:05:19.200 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2023-04-01 23:05:19.331 [info] Installing extension: streetsidesoftware.code-spell-checker
+2023-04-01 23:05:21.086 [info] Extension signature is verified: streetsidesoftware.code-spell-checker
+2023-04-01 23:05:21.368 [info] Extracted extension to /home/david/.vscode-server/extensions/.40eb49fb-611c-42ca-b74f-adcc550d34f5: streetsidesoftware.code-spell-checker
+2023-04-01 23:05:21.378 [info] Renamed to /home/david/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.20.3
+2023-04-01 23:05:21.380 [info] Extracting extension completed. streetsidesoftware.code-spell-checker
+2023-04-01 23:05:21.386 [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+2023-04-01 23:05:21.542 [info] Getting Manifest... pranaygp.vscode-css-peek
+2023-04-01 23:05:21.630 [info] Installing extension: pranaygp.vscode-css-peek
+2023-04-01 23:05:22.773 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-04-01 23:05:22.857 [info] Installing extension: dbaeumer.vscode-eslint
+2023-04-01 23:05:23.178 [info] Extension signature is verified: pranaygp.vscode-css-peek
+2023-04-01 23:05:23.424 [info] Extracted extension to /home/david/.vscode-server/extensions/.7b62be01-9fcf-438e-ab38-bc839ecdbe8a: pranaygp.vscode-css-peek
+2023-04-01 23:05:23.429 [info] Renamed to /home/david/.vscode-server/extensions/pranaygp.vscode-css-peek-4.2.0
+2023-04-01 23:05:23.430 [info] Extracting extension completed. pranaygp.vscode-css-peek
+2023-04-01 23:05:23.435 [info] Extension installed successfully: pranaygp.vscode-css-peek
+2023-04-01 23:05:24.321 [info] Extension signature is verified: dbaeumer.vscode-eslint
+2023-04-01 23:05:24.351 [info] Extracted extension to /home/david/.vscode-server/extensions/.daba3b77-2a46-4f74-b8ed-e9608459e34d: dbaeumer.vscode-eslint
+2023-04-01 23:05:24.368 [info] Renamed to /home/david/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.0
+2023-04-01 23:05:24.369 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2023-04-01 23:05:24.374 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2023-04-01 23:09:30.354 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///home/david/.vscode-server/extensions/extensions.json
+2023-04-01 23:09:30.385 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2023-04-01 23:09:30.513 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///home/david/.vscode-server/extensions/extensions.json
+2023-04-01 23:09:36.971 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///home/david/.vscode-server/extensions/extensions.json
+2023-04-01 23:09:37.056 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///home/david/.vscode-server/extensions/extensions.json
+2023-04-01 23:09:40.979 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///home/david/.vscode-server/extensions/extensions.json
+2023-04-01 23:09:51.335 [info] Extensions is already requested to uninstall ritwickdey.liveserver
+2023-04-01 23:09:53.644 [info] Getting Manifest... ritwickdey.liveserver
+2023-04-01 23:09:53.720 [info] Installing extension: ritwickdey.liveserver
+2023-04-01 23:09:54.922 [info] Extension signature is verified: ritwickdey.liveserver
+2023-04-01 23:09:54.925 [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+2023-04-01 23:09:54.948 [info] Extension installed successfully: ritwickdey.liveserver
+2023-04-01 23:09:56.962 [info] [127.0.0.1][7df07a11][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-01 23:09:57.024 [info] [127.0.0.1][9a36672f][ExtensionHostConnection] <403> Extension Host Process exited with code: 0, signal: null.
+2023-04-01 23:09:58.484 [info] [127.0.0.1][f161fb9c][ManagementConnection] New connection established.
+2023-04-01 23:09:59.047 [info] [127.0.0.1][d8a1e687][ExtensionHostConnection] New connection established.
+2023-04-01 23:09:59.051 [info] [127.0.0.1][d8a1e687][ExtensionHostConnection] <742> Launched Extension Host Process.
+2023-04-01 23:11:51.514 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///home/david/.vscode-server/extensions/extensions.json
+2023-04-01 23:11:56.130 [info] Getting Manifest... ritwickdey.liveserver
+2023-04-01 23:11:56.218 [info] Installing extension: ritwickdey.liveserver
+2023-04-01 23:11:56.344 [info] Extension installed successfully: ritwickdey.liveserver
+2023-04-01 23:13:48.384 [info] [127.0.0.1][d8a1e687][ExtensionHostConnection] <742> [0mGET /favicon.ico [33m404[0m 1.921 ms - 150[0m
+
+2023-04-01 23:15:22.352 [info] [127.0.0.1][d8a1e687][ExtensionHostConnection] <742> [0mGET /favicon.ico [33m404[0m 1.537 ms - 150[0m
+
+2023-04-01 23:15:45.300 [info] [127.0.0.1][d8a1e687][ExtensionHostConnection] <742> [0mGET /favicon.ico [33m404[0m 2.371 ms - 150[0m
+
+2023-04-02 11:08:25.888 [info] [127.0.0.1][f161fb9c][ManagementConnection] The client has reconnected.
+2023-04-02 11:08:26.023 [info] [127.0.0.1][d8a1e687][ExtensionHostConnection] The client has reconnected.
+2023-04-02 11:59:09.149 [info] [127.0.0.1][f161fb9c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-02 11:59:09.298 [info] [127.0.0.1][d8a1e687][ExtensionHostConnection] <742> Extension Host Process exited with code: 0, signal: null.
